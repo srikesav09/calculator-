@@ -1,0 +1,85 @@
+#front{
+    background-color: blueviolet;
+}
+#main{
+    margin-left: 40%;
+    margin-top:5% ;
+    margin-bottom: 5%;
+    background-color: blue;
+    width: 400px;
+    height:700px;
+    border-radius: 10px;
+    border:none;
+}
+#display{
+    background-color: brown;
+    position: relative;
+font-size: 50px;
+    width:300px;
+    padding:5px;
+    padding-top: 20px;
+    margin-left:10% ;
+    margin-top: 20px;
+    text-align: right;
+    color: white;
+    border-radius: 5px;
+    padding-bottom: 20px;
+    align-content: center;
+    
+
+    height:40px;
+}
+
+#ac{
+    font-size: 15px;
+    padding:17px;
+    padding-left: 60px;
+    padding-right: 60px;
+    border:none;
+    border-radius:5px;
+    color:black;
+    background-color: orange;
+    margin-left: 40px;
+    margin-top:60px;
+
+}
+
+#dot,#slash,#star,#minus,#plus{
+    font-size: 15px;
+    padding: 17px;
+    padding-left: 20px;
+    border:none;
+    padding-right: 20px;
+    border-radius:5px;
+    color:black;
+    background-color: yellow;
+    margin-left: 35px;
+    margin-top:40px;
+}
+
+#nine,#eight,#seven,#six,#five,#four,#three,#two,#one,#dzero,#zero{
+    font-size: 15px;
+    padding: 17px;
+    padding-left: 21px;
+    padding-right: 21px;
+    border:none;
+    border-radius:5px;
+    color:black;
+    background-color: aqua;
+    margin-left: 40px;
+    margin-top:40px;
+    
+}
+
+#equal{
+    font-size: 15px;
+    padding: 17px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border:none;
+    border-radius:5px;
+    color:black;
+    background-color: green;
+    margin-left: 40px;
+    margin-top:40px;
+}
